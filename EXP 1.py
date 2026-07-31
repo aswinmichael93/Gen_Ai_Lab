@@ -23,3 +23,5 @@ for i, out in enumerate(outputs, 1):
     print(f"--- Generated Text {i} ---")
     print(out["generated_text"])
     print()
+
+
